@@ -15,8 +15,11 @@ Lateral Movement - Internal network propagation
 🚀 Installation
 
 git clone https://github.com/sigma-cyber-ghost/Shadow-Web.git
+
 cd Shadow-Web
+
 chmod +x Shadow-Web.sh
+
 ./Shadow-Web.sh
 
 📂 File Structure
