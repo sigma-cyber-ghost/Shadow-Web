@@ -38,5 +38,5 @@ By using this tool, you acknowledge its purpose is **illegal infiltration** and 
 The creators encourage no mercy and accept **no responsibility** for the consequences.
 
 🌐 Contact
-Telegram: [visible text]@sigma_cyber_ghost
-GitHub: [visible text]sigma-cyber-ghost
+Telegram: [@Sigma_Cyber_Ghost](https://web.telegram.org/k/#@Sigma_Cyber_Ghost)
+GitHub: [sigma-cyber-ghost](https://github.com/sigma-cyber-ghost)
