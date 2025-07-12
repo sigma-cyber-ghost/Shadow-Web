@@ -40,4 +40,4 @@ The creators encourage no mercy and accept **no responsibility** for the consequ
 🌐 Contact
 Telegram: [@Sigma_Cyber_Ghost](https://web.telegram.org/k/#@Sigma_Cyber_Ghost)
 GitHub: [sigma-cyber-ghost](https://github.com/sigma-cyber-ghost)
-Instagram: [@safderkhan0800_](https://www.instagram.com/@safderkhan0800_)
+Instagram: [@safderkhan0800_](https://www.instagram.com/safderkhan0800_)
